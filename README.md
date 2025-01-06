@@ -1,2 +1,2 @@
 # PowerShell
-PowerShell AZ-040 Exercises and Examples
+Gregory Mercer Class Project
